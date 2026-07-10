@@ -1,0 +1,8 @@
+SUCODMAG|SUCODART|SUCODLOT|SUCODUBI|SUQTAPER|SUQTRPER|SUQTAPRO|SUQTRPRO|UTCC|UTCV|UTDC|UTDV|cpccchk
+--------|--------|--------|--------|--------|--------|--------|--------|----|----|----|----|-------
+MP   |CAPSULABIALETTI     |0090                |                    |33400.000|.000|.000|.000|154|1|2023-09-20 17:20:08.000|2023-11-16 08:18:42.000|cvgcthqdaw
+MP   |CARTAALLUMINIOMICROF|JOB 20295           |                    |127.072|.000|.000|.000|154|1|2023-09-20 17:20:08.000|2023-11-16 08:18:42.000|cvgcthqdaw
+MP   |CARTAFILTRO1        |47848787            |                    |169.200|.000|.000|.000|0|1|NULL|2023-11-16 08:18:42.000|cvgcthqdaw
+MP   |TOPBIALETTI         |22-1335-002         |                    |29.224|.000|.000|.000|154|1|2023-09-20 17:20:08.000|2023-11-16 08:18:42.000|cvgcthqdaw
+
+(Righe interessate: 4)

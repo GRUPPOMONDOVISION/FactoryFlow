@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="backend\FactoryFlow.Api\FactoryFlow.Api.csproj" />
+  <Project Path="backend\FactoryFlow.Core\FactoryFlow.Core.csproj" />
+  <Project Path="backend\FactoryFlow.Infrastructure\FactoryFlow.Infrastructure.csproj" />
+</Solution>

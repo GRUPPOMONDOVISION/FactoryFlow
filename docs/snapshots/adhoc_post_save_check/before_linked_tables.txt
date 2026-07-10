@@ -1,0 +1,12 @@
+Tabella|MVSERIAL|CPROWNUM|MVNUMRIF|CPROWORD|MVCODICE|MVDESART|MVUNIMIS|MVQTAMOV|MVCODMAG|MVCODMAT|MVCODLOT|MVCODUBI|MVCODUB2|MVQTAUM1|MVFLCASC|MVFLRISE|MVFLLOTT|MVF2CASC|MVF2RISE|MVF2LOTT|MVFLUBIC|MVFLUBI2|MVARTLOT|MVCODART|MVSERRIF|MVROWRIF|MVRIFRIG|MVCODCOM|cpccchk
+-------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|-------
+
+(Righe interessate: 0)
+Tabella|TRCODVOC|TRROWORD|TRDESVOC|TRCODESE|TRSERIAL|CPROWNUM|TRFLMACO|TRCODMAS|TRCODCON|TR_SEGNO|TR__DAVE|TRIMPDAR|TRIMPAVE|cpccchk
+-------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|-------
+
+(Righe interessate: 0)
+Tabella|MMSERIAL|MMCODESE|MMTIPESC|cpccchk
+-------|--------|--------|--------|-------
+
+(Righe interessate: 0)

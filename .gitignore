@@ -1,0 +1,149 @@
+# =========================
+# Java / Maven
+# =========================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven Wrapper: NON escludere questi file
+# .mvn/
+# mvnw
+# mvnw.cmd
+!**/.mvn/wrapper/maven-wrapper.jar
+!**/mvnw
+!**/mvnw.cmd
+
+# =========================
+# Gradle
+# =========================
+.gradle/
+build/
+
+# Gradle Wrapper: NON escludere questi file
+# gradle/
+# gradlew
+# gradlew.bat
+!**/gradle/wrapper/gradle-wrapper.jar
+!**/gradlew
+!**/gradlew.bat
+
+# =========================
+# .NET / ASP.NET
+# =========================
+bin/
+obj/
+TestResults/
+*.user
+*.rsuser
+
+# =========================
+# Node / Frontend
+# =========================
+node_modules/
+dist/
+coverage/
+.npm/
+.npm-cache/
+*.tsbuildinfo
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+**/ios/Flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+
+# File locali dei package manager
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Eclipse
+# =========================
+.metadata/
+.settings/
+.classpath
+.project
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# =========================
+# Visual Studio Code
+# =========================
+.vscode/
+
+# =========================
+# Configurazioni locali e segreti
+# =========================
+.env
+.env.*
+!.env.example
+
+application-local.properties
+application-local.yml
+application-local.yaml
+
+application-dev-local.properties
+application-dev-local.yml
+application-dev-local.yaml
+
+# Eventuali file con credenziali reali
+secrets/
+*.secret
+*.key
+*.pem
+*.p12
+*.pfx
+
+# =========================
+# Log, cache e temporanei
+# =========================
+logs/
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+.tmp/
+.tmp_*/
+.tmp_chrome*/
+publish/
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Database locali
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# File compressi o esportazioni
+# =========================
+*.zip
+*.7z
+*.rar
